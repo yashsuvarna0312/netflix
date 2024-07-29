@@ -1,0 +1,15 @@
+/* Custom styles */
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#home {
+    background: url('../img//desktop-wallpaper-pizza-restaurant-culinary-wall-mural-bistro-cafe-etsy-new-zealand-food-pizza.jpg') no-repeat center center/cover;
+    height: 100vh;
+}
+.card{
+    transition: transform 0.3s;
+}
+.card:hover{
+    transform: scale(1.05);
+}
